@@ -8,7 +8,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
   - [Built with](#built-with)
   - [Author](#author)
 
-### Screenshot
+## Screenshots
 
 Desktop version:
 
@@ -18,22 +18,19 @@ Mobile version:
 
 ![](./screenshots/recipe-mobile.png)
 
-### Links
+## Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/recipe-page---desktop-and-mobile-version-OOFlaTv7NU
+- Live Site URL: [PinelopiRomeou](https://pinelopi-romeou.netlify.app/)
 
-## My process
-
-### Built with
+## Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 
-
 ## Author
 
-- GitHub - [Pinelopi-Romeou]()
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- GitHub - [Pinelopi-Romeou](https://github.com/Pinelopi-Romeou)
+- Website - [PinelopiRomeou](https://pinelopi-romeou.netlify.app/)
+- Frontend Mentor - [@Pinelopi-Romeou](https://www.frontendmentor.io/profile/Pinelopi-Romeou)
