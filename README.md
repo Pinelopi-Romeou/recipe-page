@@ -12,11 +12,11 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 Desktop version:
 
-![](./screenshots/recipe-desktop.png)
+![](./screenshots/desktop.png)
 
 Mobile version:
 
-![](./screenshots/recipe-mobile.png)
+![](./screenshots/mobile.png)
 
 ## Links
 
